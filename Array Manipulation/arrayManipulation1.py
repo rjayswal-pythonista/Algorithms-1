@@ -1,5 +1,5 @@
 
-
+# Better Solution
 def arrayManipulation(n, queries):
     arr = [0]*n
     for i in queries:
